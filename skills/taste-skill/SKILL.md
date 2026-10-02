@@ -1,4 +1,1069 @@
 ---
+# AURELION PROJECT OVERRIDE
+## Brand-Specific Design Directive
+## Priority: HIGH
+
+This project uses the Taste frontend skill as its general design and anti-slop foundation.
+
+However, this project has a strong, explicitly defined brand identity.
+When the general Taste rules conflict with the AURELION directives below, FOLLOW THE AURELION DIRECTIVES.
+
+Do not dilute the brand to make it look like a generic Taste example.
+Do not turn AURELION into a generic SaaS website, AI agency template, startup landing page, crypto site, or dashboard template.
+
+The objective is:
+
+LUXURY TECHNOLOGY
+PREMIUM BUSINESS CONSULTING
+DIGITAL INFRASTRUCTURE
+AI + AUTOMATION
+CINEMATIC DIGITAL EXPERIENCE
+
+The final result must feel like a premium technology company with the visual quality of a world-class digital studio.
+
+---
+
+# 1. AURELION BRAND IDENTITY
+
+Brand:
+AURELION
+
+Tagline:
+BUSINESS. TECHNOLOGY. GROWTH.
+
+Positioning:
+AURELION builds digital systems for modern businesses.
+
+AURELION combines:
+
+- Premium digital presence
+- Websites
+- Conversion systems
+- SEO
+- GEO / AI visibility
+- AI phone agents
+- AI automation
+- CRM processes
+- Digital workflows
+- Business integrations
+- Intelligent customer journeys
+
+AURELION must NOT be positioned as merely:
+
+- a web design agency
+- an AI agency
+- a marketing agency
+- a generic software agency
+
+The visual and verbal positioning must communicate:
+
+"We build the digital infrastructure behind modern businesses."
+
+Core narrative:
+
+DISCOVER
+→
+CONVERT
+→
+AUTOMATE
+
+---
+
+# 2. BRAND AESTHETIC
+
+The visual identity is:
+
+- luxurious
+- dark
+- cinematic
+- technological
+- sophisticated
+- minimal
+- editorial
+- architectural
+- premium
+- serious
+- highly polished
+
+Think:
+
+Luxury Technology
++
+Premium Consulting
++
+Digital Engineering
++
+High-End Creative Studio
+
+Do NOT create:
+
+- generic SaaS layouts
+- startup-template aesthetics
+- AI-purple gradients
+- neon cyberpunk
+- crypto aesthetics
+- gaming aesthetics
+- excessive glassmorphism
+- cheap glowing cards
+- excessive rounded cards
+- generic 3-column feature grids
+- meaningless blobs
+- random decorative gradients
+- fake dashboards
+- fake statistics
+- generic AI imagery
+- stock-photo-heavy layouts
+
+Every visual element must have a reason to exist.
+
+---
+
+# 3. COLOR SYSTEM
+
+Primary environment:
+
+Near-black
+Obsidian
+Graphite
+Deep charcoal
+
+Secondary:
+
+Warm white
+Soft ivory
+Champagne
+Muted metallic gold
+Subtle warm amber
+
+Gold is an ACCENT, not a dominant background color.
+
+The interface should primarily feel dark and sophisticated.
+
+Avoid:
+
+- purple AI gradients
+- blue SaaS gradients
+- rainbow gradients
+- neon cyan
+- neon green
+- excessive orange
+- colorful startup palettes
+
+The overall palette must remain restrained.
+
+---
+
+# 4. LOGO RULE
+
+The supplied AURELION logo is the definitive brand reference.
+
+DO NOT redesign the logo.
+
+DO NOT reinterpret the logo.
+
+DO NOT change:
+
+- A monogram proportions
+- wordmark proportions
+- typography
+- spacing
+- identity
+- composition
+
+The logo may be:
+
+- animated
+- illuminated
+- rendered in 3D
+- given metallic material
+- revealed through light
+- subtly transformed through camera movement
+
+But the underlying logo identity must remain unchanged.
+
+The logo should feel like a premium physical object.
+
+Preferred material language:
+
+- brushed champagne metal
+- dark metallic surfaces
+- subtle gold reflections
+- physically plausible highlights
+- soft edge lighting
+
+Avoid:
+
+- cartoon 3D
+- plastic
+- chrome gaming aesthetics
+- excessive glow
+
+---
+
+# 5. HERO OVERRIDE
+
+The AURELION hero is intentionally cinematic.
+
+The hero may use a centered visual composition when necessary for the AURELION 3D logo reveal.
+
+This is an intentional brand exception to generic anti-center bias.
+
+The hero still MUST respect the general Taste discipline:
+
+- headline maximum approximately 2 lines
+- concise supporting copy
+- primary CTA visible within the initial viewport
+- no unnecessary hero clutter
+- no excessive trust logos
+- no meaningless badges
+- no decorative UI strips
+
+Hero experience:
+
+1. Dark environment
+2. Cinematic AURELION 3D logo reveal
+3. Metallic edge light
+4. Subtle camera movement
+5. Light sweep across the logo
+6. Wordmark appears
+7. Tagline appears
+8. Main headline appears
+9. CTA becomes visible
+10. Background remains subtly alive
+
+The hero should feel like the opening scene of a premium technology film.
+
+Target duration of the cinematic logo reveal:
+
+approximately 5–6 seconds.
+
+The animation must never block usability.
+
+Provide:
+
+- reduced-motion version
+- mobile fallback
+- WebGL fallback
+- fast-loading fallback
+
+---
+
+# 6. HERO BACKGROUND / DIGITAL FIELD
+
+AURELION should use a sophisticated animated digital environment.
+
+Preferred technologies:
+
+- ShaderGradient
+- WebGL
+- Three.js
+- React Three Fiber
+- GSAP
+- ScrollTrigger
+
+Use these only where they materially improve the experience.
+
+The hero background should resemble an abstract digital field / intelligent information environment.
+
+It may contain:
+
+- particles
+- flowing points
+- subtle waves
+- depth
+- volumetric light
+- field deformation
+- subtle data-like movement
+- atmospheric gradients
+- spatial relationships
+
+It must NOT look like:
+
+- stars
+- outer space
+- Matrix code
+- generic particle background
+- crypto network
+- neon cyberpunk
+- generic mesh gradient
+
+The field should feel:
+
+INTELLIGENT
++
+DIGITAL
++
+ARCHITECTURAL
++
+PREMIUM
+
+Mouse movement may subtly influence:
+
+- field deformation
+- light direction
+- depth
+- camera position
+- particle movement
+
+Use subtle interaction only.
+
+Do not create a flashy custom cursor.
+
+---
+
+# 7. MOTION LANGUAGE
+
+Motion should communicate sophistication.
+
+Preferred:
+
+- slow
+- smooth
+- cinematic
+- physically plausible
+- intentional
+- layered
+- responsive
+
+Use:
+
+- Lenis for premium smooth scrolling
+- GSAP / ScrollTrigger for complex sequences
+- Framer Motion where appropriate
+- WebGL for immersive environments
+
+Avoid:
+
+- constant bouncing
+- excessive parallax
+- random floating elements
+- aggressive scaling
+- unnecessary scroll animations
+- animation on every single element
+
+Motion hierarchy:
+
+1. Hero cinematic reveal
+2. Major section transitions
+3. Important visual systems
+4. Editorial content reveals
+5. Microinteractions
+
+Not everything needs to move.
+
+---
+
+# 8. SCROLL EXPERIENCE
+
+The website should feel like one continuous digital experience.
+
+Use premium smooth scrolling.
+
+Preferred:
+
+Lenis
+
+Combine with:
+
+GSAP / ScrollTrigger
+
+Do not use primitive scroll event implementations for complex animation.
+
+Sections should transition naturally into one another.
+
+Avoid obvious:
+
+"section → section → section"
+
+template feeling.
+
+The user should feel as if they are moving through one connected story.
+
+---
+
+# 9. CORE AURELION STORY
+
+The website should tell a strategic story.
+
+The narrative should progress approximately as follows:
+
+THE DIGITAL WORLD IS CHANGING.
+
+↓
+
+People no longer discover businesses only through traditional Google search.
+
+↓
+
+Search is becoming conversational.
+
+↓
+
+Google remains important.
+
+↓
+
+AI systems increasingly influence how people discover information, businesses and services.
+
+↓
+
+Businesses therefore need more than a website.
+
+↓
+
+They need a connected digital system.
+
+↓
+
+AURELION builds that system.
+
+Core framework:
+
+DISCOVER
+→
+CONVERT
+→
+AUTOMATE
+
+---
+
+# 10. GOOGLE → AI SEARCH VISUAL
+
+Create a sophisticated visual explanation of the transition from traditional search to AI-assisted discovery.
+
+This should be an ORIGINAL AURELION visualization.
+
+Do NOT copy another website's exact visual design.
+
+Concept:
+
+Traditional search:
+
+USER
+↓
+GOOGLE
+↓
+SEARCH RESULTS
+↓
+WEBSITE
+↓
+CONVERSION
+
+Emerging AI discovery:
+
+USER
+↓
+AI / SEARCH / CONVERSATIONAL SYSTEM
+↓
+UNDERSTANDING
+↓
+RECOMMENDATION
+↓
+WEBSITE / CONTACT / BOOKING
+↓
+CONVERSION
+
+The visual should feel like an intelligent information system.
+
+Possible visual language:
+
+- flowing points
+- connected nodes
+- elegant lines
+- subtle field movement
+- data pathways
+- spatial depth
+- animated transitions
+
+It must feel premium and editorial rather than like a technical diagram.
+
+---
+
+# 11. AURELION CORE SYSTEM
+
+AURELION's core system is:
+
+DISCOVER
+CONVERT
+AUTOMATE
+
+DISCOVER:
+
+- Website
+- SEO
+- GEO
+- AI visibility
+- Digital presence
+- Brand positioning
+
+CONVERT:
+
+- Conversion-focused UX
+- Booking
+- Contact
+- Lead capture
+- AI phone agents
+- Customer journeys
+
+AUTOMATE:
+
+- CRM
+- AI agents
+- Lead processing
+- Follow-ups
+- Email workflows
+- Internal processes
+- Documents
+- Integrations
+- Business workflows
+
+These three pillars should feel like one connected ecosystem.
+
+Do not present them as three generic equal feature cards.
+
+Use an editorial / immersive composition.
+
+---
+
+# 12. SERVICE PRESENTATION
+
+Services must be demonstrated visually.
+
+Do not rely on:
+
+icon + title + paragraph
+
+for every service.
+
+Instead create visual experiences.
+
+For example:
+
+DIGITAL PRESENCE
+
+Show a premium website environment.
+
+AI PHONE AGENT
+
+Show an elegant simulated call interface:
+
+Incoming call
+↓
+AI understands request
+↓
+AI qualifies customer
+↓
+AI books appointment
+↓
+CRM updated
+
+AI AUTOMATION
+
+Show an animated workflow:
+
+Lead
+→
+AI processing
+→
+CRM
+→
+Email
+→
+Follow-up
+→
+Appointment
+→
+Human team
+
+These should feel like real systems rather than fake dashboard decorations.
+
+---
+
+# 13. AI PHONE AGENT VISUAL LANGUAGE
+
+The AI phone agent section should feel human and intelligent.
+
+Show:
+
+- incoming call
+- conversation state
+- intent detection
+- appointment booking
+- customer information
+- CRM update
+- completion
+
+Use subtle animation.
+
+Avoid:
+
+- robotic AI face
+- humanoid robot
+- generic chatbot bubble wall
+- fake futuristic hologram
+
+The visual should communicate:
+
+"AI is quietly handling the work."
+
+---
+
+# 14. AUTOMATION VISUAL LANGUAGE
+
+Automation should be represented as connected business infrastructure.
+
+Use:
+
+- nodes
+- pathways
+- workflows
+- data movement
+- process states
+- subtle system activity
+
+Example:
+
+NEW LEAD
+↓
+AI ANALYSIS
+↓
+CRM
+↓
+FOLLOW-UP
+↓
+BOOKING
+↓
+TEAM NOTIFICATION
+
+The system should feel alive.
+
+Avoid generic Zapier-style screenshots unless a real integration needs to be shown.
+
+---
+
+# 15. CASE STUDIES / WORK
+
+Do NOT create a generic 3-column portfolio grid.
+
+Case studies should feel editorial.
+
+Use large visual compositions.
+
+Each major project can have:
+
+- large website preview
+- project title
+- industry
+- problem
+- solution
+- system built
+- visual transformation
+
+Use varied compositions.
+
+Examples of possible AURELION work:
+
+- Genuss & Stil
+- Goldhaus
+- Engelhardt
+- Dienemann
+- Olivera
+- Tapas y Más
+- other real AURELION projects
+
+Only use projects that actually exist.
+
+Do not invent:
+
+- revenue increases
+- conversion rates
+- customer counts
+- awards
+- rankings
+- performance statistics
+
+Real websites may be shown through actual website windows when technically and legally appropriate.
+
+---
+
+# 16. PROCESS
+
+AURELION process:
+
+DISCOVER
+→
+DESIGN
+→
+BUILD
+→
+CONNECT
+→
+OPTIMIZE
+
+This should be visualized as one continuous system.
+
+Avoid five identical cards.
+
+Create an editorial process narrative.
+
+---
+
+# 17. TYPOGRAPHY
+
+Typography must feel premium and editorial.
+
+Use a sophisticated modern grotesk / sans-serif.
+
+Strong hierarchy.
+
+Large headlines.
+
+Generous spacing.
+
+Short paragraphs.
+
+Avoid:
+
+- excessive text walls
+- tiny unreadable body copy
+- overly condensed typography
+- gimmicky display fonts
+
+Headlines should feel confident.
+
+Example tone:
+
+"Digitale Systeme für Unternehmen, die weiterdenken."
+
+"Nicht mehr einzelne Tools. Ein System."
+
+"Wir bauen die Infrastruktur hinter der digitalen Customer Journey."
+
+"Technologie sollte Arbeit abnehmen. Nicht neue Arbeit erzeugen."
+
+"Was heute manuell läuft, kann morgen automatisch weiterlaufen."
+
+---
+
+# 18. CTA LANGUAGE
+
+Primary CTA:
+
+Beratungsgespräch vereinbaren
+
+Secondary possibilities:
+
+System entdecken
+Lösungen ansehen
+Projekte ansehen
+
+Avoid:
+
+- Learn More
+- Get Started
+- Book a Demo
+- Start Now
+- generic SaaS CTA language
+
+The primary CTA should feel premium and consultative.
+
+---
+
+# 19. CONSULTATION EXPERIENCE
+
+The consultation CTA should open a premium multi-step experience.
+
+Do NOT use a generic contact form.
+
+Flow:
+
+STEP 1
+Was möchten Sie verbessern?
+
+- Digitale Präsenz
+- KI / Telefon
+- Automatisierung
+- Mehrere Bereiche
+
+STEP 2
+Unternehmen / Branche
+
+STEP 3
+Was ist aktuell die größte Herausforderung?
+
+STEP 4
+Kontaktinformationen
+
+STEP 5
+Termin auswählen
+
+Final state:
+
+Elegant confirmation animation.
+
+The experience should feel like entering a premium consulting process.
+
+Keep the form simple.
+
+Do not ask unnecessary questions.
+
+---
+
+# 20. NAVIGATION
+
+Preferred navigation:
+
+AURELION
+
+Solutions
+Work
+Approach
+About
+
+Primary CTA:
+
+Beratungsgespräch
+
+Navigation should be compact and sophisticated.
+
+Sticky navigation.
+
+Transparent / dark initially.
+
+Subtle transformation after scrolling.
+
+No oversized navigation.
+
+---
+
+# 21. RESPONSIVE DESIGN
+
+Mobile is NOT a scaled desktop version.
+
+Mobile must be intentionally designed.
+
+On mobile:
+
+- simplify WebGL
+- reduce particle count
+- reduce animation complexity
+- preserve cinematic feeling
+- maintain typography hierarchy
+- maintain CTA visibility
+- avoid horizontal overflow
+- maintain performance
+
+A sticky bottom mobile CTA may be used:
+
+Beratungsgespräch
+
+Only if it improves conversion and does not obstruct content.
+
+---
+
+# 22. ACCESSIBILITY
+
+Maintain all relevant Taste accessibility requirements.
+
+Include:
+
+- semantic HTML
+- keyboard navigation
+- visible focus states
+- accessible form labels
+- adequate contrast
+- reduced motion support
+- meaningful button labels
+- logical heading hierarchy
+
+Motion must never be required to understand content.
+
+---
+
+# 23. PERFORMANCE
+
+The website must remain production-quality.
+
+Target:
+
+smooth 60 FPS where hardware allows.
+
+Use:
+
+- lazy loading
+- optimized assets
+- GPU-conscious animation
+- capped device pixel ratio
+- reduced WebGL complexity on mobile
+- proper WebGL cleanup
+- disposal of unused resources
+- no memory leaks
+- no unnecessary re-renders
+
+WebGL must never make the website unusable.
+
+If WebGL is unavailable:
+
+provide an elegant static / CSS fallback.
+
+---
+
+# 24. REDUCED MOTION
+
+Respect:
+
+prefers-reduced-motion
+
+When reduced motion is enabled:
+
+- disable cinematic logo movement
+- reduce parallax
+- simplify particle movement
+- remove unnecessary transitions
+- keep content fully accessible
+
+The design should still look premium without motion.
+
+---
+
+# 25. DARK MODE / BRAND MODE
+
+AURELION is intentionally a dark luxury-tech brand.
+
+Do not automatically introduce a conventional light-mode SaaS interface.
+
+The core experience should remain:
+
+OBSIDIAN
++
+GRAPHITE
++
+WARM WHITE
++
+CHAMPAGNE GOLD
+
+A light section may be used only when it creates a deliberate editorial contrast.
+
+Do not randomly alternate dark and white sections.
+
+---
+
+# 26. SHAPE LANGUAGE
+
+Use a restrained shape system.
+
+Preferred:
+
+- subtle corner radii
+- architectural containers
+- large editorial surfaces
+- thin borders
+- soft depth
+- metallic highlights
+
+Avoid excessive pill-shaped UI.
+
+Do not make every element rounded.
+
+Avoid the "everything is a card" problem.
+
+---
+
+# 27. ANTI-SLOP OVERRIDE
+
+All existing Taste anti-slop principles remain active.
+
+In addition, explicitly reject:
+
+- generic AI agency aesthetics
+- purple AI gradients
+- fake dashboards
+- fake statistics
+- fake testimonials
+- fake logos
+- fake awards
+- fake certifications
+- fake customer counts
+- generic stock business people
+- meaningless 3D objects
+- decorative blobs
+- random glass cards
+- excessive pills
+- repetitive card grids
+- repetitive icon grids
+- obvious template layouts
+
+Every section must contribute to the AURELION story.
+
+---
+
+# 28. BRAND EXCEPTION RULE
+
+Taste rules remain the default.
+
+AURELION-specific directives may override Taste only when the override is explicitly defined in this document.
+
+Examples of intentional AURELION exceptions:
+
+1. Cinematic centered 3D logo hero
+2. Dark-first luxury technology aesthetic
+3. WebGL / ShaderGradient immersive environments
+4. Editorial data visualizations
+5. Sophisticated pointer-reactive visual effects
+
+These exceptions must remain restrained and premium.
+
+Do not interpret these exceptions as permission to add visual effects everywhere.
+
+---
+
+# 29. QUALITY STANDARD
+
+The final website must NOT feel like:
+
+"a website generated by an AI."
+
+It must feel like:
+
+"a premium digital technology company hired an elite creative technology studio."
+
+Before completing any implementation, check:
+
+Does the page feel distinctive?
+
+Does the visual hierarchy feel intentional?
+
+Does the motion have a purpose?
+
+Does the brand feel premium?
+
+Does the technology feel integrated rather than decorative?
+
+Does the page tell a coherent story?
+
+Does anything look like a generic AI/SaaS template?
+
+If yes:
+
+REMOVE IT
+or
+REDESIGN IT.
+
+Do not settle for "good enough."
+
+The final result should feel:
+
+LUXURY
++
+TECHNOLOGY
++
+BUSINESS
++
+MOTION
++
+PRECISION
+
+This AURELION directive has priority over generic design assumptions whenever the two conflict.
 name: design-taste-frontend
 description: Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design systems when applicable, audit-first on redesigns, strict pre-flight check.
 ---
